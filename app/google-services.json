@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902923134569",
+    "project_id": "real-gold-of-aztec",
+    "storage_bucket": "real-gold-of-aztec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902923134569:android:1e20c421fa3528121264f8",
+        "android_client_info": {
+          "package_name": "com.arbtemey.solo.aztecgold2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClefAcwhBqWg0P_2hH01B8v3RIhZbFeuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
